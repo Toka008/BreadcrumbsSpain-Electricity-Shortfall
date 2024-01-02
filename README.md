@@ -17,7 +17,7 @@ The Spanish government is thinking about making more purchases of renewable ener
 - AWS EC
 
 ## Output
-With an RMSE of 3184 for the ensemble model, we came in second out of 38 teams on the https://www.kaggle.com/competitions/spain-electricity-shortfall-challenge-2023/overview. This implies that we could forecast the load deficit with accuracy.
+With an RMSE of 3184 for the ensemble model, we came in second out of 38 teams on the https://www.kaggle.com/competitions/spain-electricity-shortfall-challenge-2023. This implies that we could forecast the load deficit with accuracy.
 
 ![monthly](https://github.com/Toka008/Spain-Electricity-Shortfall/assets/63381061/98494122-f440-4c12-968d-10172b127035)
 - This bar graph shows the load shortfall per month.Possibly due to higher solar generation
