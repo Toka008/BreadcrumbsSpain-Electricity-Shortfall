@@ -10,7 +10,7 @@ The Spanish government is thinking about making more purchases of renewable ener
 
 ## Tools Used
 - Python
-  SK Learn
+  **SK Learn
   Pandas
   NumPys
 - Flask
